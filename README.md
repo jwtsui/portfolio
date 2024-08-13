@@ -1,4 +1,4 @@
-# Engineer and Aspiring Data Scientist
+## Engineer and Aspiring Data Scientist
 
 ### Education
 - MSc Analytics, Georgia Institute of Technology (Ongoing)
